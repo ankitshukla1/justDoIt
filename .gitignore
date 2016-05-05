@@ -1,0 +1,9 @@
+
+*.log
+*.pid
+*.seed
+.idea
+.grunt
+node_modules
+bower_components
+.DS_Store
